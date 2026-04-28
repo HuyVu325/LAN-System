@@ -37,7 +37,7 @@ Mô hình triển khai:
 
 ## 🌐 Topology
 
-![Network Topology](topology.png)
+![Network Topology](images/topology.png)
 
 ---
 
